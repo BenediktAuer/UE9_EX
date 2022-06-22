@@ -5,9 +5,9 @@ Die sind allerdings zu groß zum darstellen, deshalb benutzte folgende Links (od
 
 | Funktion      | Link          |
 | ------------- | ------------- |
-| $\Psi_x    $  | [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/p_x.html)  |
-| $\Psi_y    $  |  [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/p_y.html)  |
-| $\Psi_z    $  |[Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/p_z.html) |
+| $\Psi_{p_x}    $  | [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/p_x.html)  |
+| $\Psi_{p_y}    $  |  [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/p_y.html)  |
+| $\Psi_{p_z}    $  |[Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/p_z.html) |
 | $\Psi^{2sp}_1$ | [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/sp_1.html)|
 | $\Psi^{2sp}_2$| [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/sp_2.html)|
 | $\Psi^{2sp^2}_1$| [Link](https://htmlpreview.github.io/?https://github.com/BenediktAuer/UE9_EX/blob/main/HTML-Files/2sp2_1.html)|
